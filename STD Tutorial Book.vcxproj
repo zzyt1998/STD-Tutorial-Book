@@ -141,6 +141,9 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="range-based-for-loop.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="range-based-for-loop.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
